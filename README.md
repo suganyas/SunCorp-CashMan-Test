@@ -33,7 +33,8 @@ To use /addValuesToDenominations add proper Json with AustralianCurrency enum va
 
 ##sample:
 
-``` {
+``` 
+{
 "HUNDREDDOLLAR" : 100,
 "FIVEDOLLAR" :200
 }
